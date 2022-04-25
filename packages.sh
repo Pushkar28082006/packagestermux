@@ -1,4 +1,3 @@
-#!/data/data/com.termux/files/usr/bash
 apt update -y                      #update in progress
 apt install python -y           #installation......
 apt install python2 -y
